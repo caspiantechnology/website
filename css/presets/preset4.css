@@ -11,11 +11,11 @@ a,
 
 .btn.btn-primary:hover,
 .btn-submit:hover {
-  background-color: #0a8897
+  background-color: #303F9F
 }
 
 a:hover, a:focus {
-	color: #0a8897;
+	color: #303F9F;
 }
 
 .main-nav, 
@@ -34,7 +34,7 @@ a:hover, a:focus {
 .left-control:hover, 
 .right-control:hover, 
 .folio-overview a:hover {
-  background-color:#2980b9;
+  background-color:#536DFE;
 }
 
 .twitter-left-control:hover, 
